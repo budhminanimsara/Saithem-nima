@@ -17,6 +17,6 @@
 <div>
   <br>
 
-## _[How to use? Documentation](https://github.com/saithemnima-md/wiki/Nimsara/Documentation)_
+## _[How to use? Documentation](https://github.com/saithem-nima-md/wiki/Nimsara/Documentation)_
 
 ## You can also use as a BGM bot. [Click here](https://github.com/Saithem nima/The bot nima-md/wiki/Docs#how-to-set-up-bgm-bot)
