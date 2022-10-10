@@ -1,7 +1,7 @@
 
 # _The Bot saithem Nima-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
-#### _Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)_
+## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/budhminanimsara/Saithem-nima/edit/main/README.md)_
+#### _Looking for non multi device version? Get it [here](https://github.com/budhminanimsara/Saithem-nima/edit/main/README.md-legacy)_
 
 <div align="center">
   
