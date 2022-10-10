@@ -1,3 +1,4 @@
+
 # _The Bot saithem Nima-multi-device_
 ## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
 #### _Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)_
@@ -16,6 +17,6 @@
 <div>
   <br>
 
-## _[How to use? Documentation](https://github.com/saithemnima-md/wiki/Nimsara-Documentation)_
+## _[How to use? Documentation](https://github.com/saithemnima-md/wiki/Nimsara/Documentation)_
 
 ## You can also use as a BGM bot. [Click here](https://github.com/Saithem nima/The bot nima-md/wiki/Docs#how-to-set-up-bgm-bot)
