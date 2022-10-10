@@ -1,7 +1,7 @@
-FROM quay.io/souravkl11/raganork:multidevice
+FROM quay.io/saithem nima/:multidevice
 
-RUN git clone https://github.com/souravkl11/raganork-md /skl/Raganork
-WORKDIR /skl/Raganork
+RUN git clone https://github.com/Saithem Nima/The Bot nimsara-md /itsme-nimsara
+WORKDIR /skl/saithem nima
 ENV TZ=Asia/Kolkata
 RUN yarn install --ignore-engines
 CMD ["node", "index.js"]
